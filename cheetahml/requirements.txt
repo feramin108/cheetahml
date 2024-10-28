@@ -59,7 +59,7 @@ urllib3==2.2.0
 uvicorn==0.23.2
 vine==5.1.0
 wcwidth==0.2.13
-Werkzeug==3.0.1
+Werkzeug==3.0.6
 zope.event==5.0
 zope.interface==6.1
 -r shared_utils/requirements.txt
