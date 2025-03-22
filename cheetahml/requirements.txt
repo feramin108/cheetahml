@@ -21,7 +21,7 @@ gevent==23.9.1
 geventhttpclient==2.0.11
 google==3.0.0
 greenlet==3.0.3
-grpcio==1.60.1
+grpcio==1.60.2
 grpcio-tools==1.60.1
 h11==0.14.0
 idna==3.6
